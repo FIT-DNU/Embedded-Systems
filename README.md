@@ -35,27 +35,47 @@ Dưới đây là danh sách các dự án tiêu biểu. Click vào tên dự á
 ---
 <details>
     <summary>
-        <h4>
-            Nhóm 5: Dự án Nhúng/IoT (Đinh Trùng Phong, Lại Thành Đạt, ...)
-        </h4>
+        <h3 style="color: #007bff;">
+            <span style="font-size: 1.5em;">&#128295;</span> <b>NHÓM 5: DỰ ÁN NHÚNG/IOT</b>
+        </h3>
+        <small style="color: #6c757d;">(Đinh Trùng Phong, Lại Thành Đạt, và cộng sự)</small>
     </summary>
-    <p>
-    <b>🧑‍💻 Thành viên:</b> 39. Đinh Trùng Phong, 16. Lại Thành Đạt, 35. Nguyễn Sỹ Thịnh, 10. Đỗ Văn Công
-    </p>
-    <p>
-    <b>💻 Mã nguồn (GitHub):</b><br>
-    🔗 `Đinh Trùng Phong`: [Github] <br>
-    🔗 `Lại Thành Đạt`: [Github] <br>
-    🔗 `Nguyễn Sỹ Thịnh`: [BaiTapLon](https://github.com/nguyensythinht/BaiTapLon) <br>
-    🔗 `Đỗ Văn Công`: [ProjectBTLIoT](https://github.com/docong1412/ProjectBTLIoT)
-    </p>
-    <p>
-    <b>🎥 Tài liệu & Demo:</b><br>
-    🎬 Video Giới Thiệu: [Video] <br>
-    ⚙️ Video Kết Quả Chạy: [Video] <br>
-    🖼️ Poster trình bày: [Poster]
-    </p>
-    > **⭐️ Đánh giá:** Đã nộp đầy đủ video và tài liệu.
+    <div style="border: 1px solid #e9ecef; padding: 15px; border-radius: 5px; margin-top: 10px;">
+        <h5 style="color: #343a40;">&#128100; THÔNG TIN THÀNH VIÊN</h5>
+        <hr style="border-top: 1px solid #f8f9fa;">
+        <ul>
+            <li><u>39. Đinh Trùng Phong</u></li>
+            <li><u>16. Lại Thành Đạt</u></li>
+            <li><u>35. Nguyễn Sỹ Thịnh</u></li>
+            <li><u>10. Đỗ Văn Công</u></li>
+        </ul>
+        <h5 style="color: #343a40;">&#128187; MÃ NGUỒN (GITHUB)</h5>
+        <hr style="border-top: 1px solid #f8f9fa;">
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <span style="background-color: #f0f8ff; padding: 5px 10px; border-radius: 3px;">
+                🔗 Đinh Trùng Phong: <b><a href="Github">Github</a></b>
+            </span>
+            <span style="background-color: #f0f8ff; padding: 5px 10px; border-radius: 3px;">
+                🔗 Lại Thành Đạt: <b><a href="Github">Github</a></b>
+            </span>
+            <span style="background-color: #f0f8ff; padding: 5px 10px; border-radius: 3px;">
+                🔗 Nguyễn Sỹ Thịnh: <b><a href="https://github.com/nguyensythinht/BaiTapLon">BaiTapLon</a></b>
+            </span>
+            <span style="background-color: #f0f8ff; padding: 5px 10px; border-radius: 3px;">
+                🔗 Đỗ Văn Công: <b><a href="https://github.com/docong1412/ProjectBTLIoT">ProjectBTLIoT</a></b>
+            </span>
+        </div>
+        <h5 style="color: #343a40; margin-top: 15px;">&#127916; TÀI LIỆU & DEMO</h5>
+        <hr style="border-top: 1px solid #f8f9fa;">
+        <ul>
+            <li>🎬 <b>Video Giới Thiệu:</b> <a href="Video">Xem tại đây</a></li>
+            <li>⚙️ <b>Video Kết Quả Chạy:</b> <a href="Video">Xem tại đây</a></li>
+            <li>🖼️ <b>Poster Trình bày:</b> <a href="Poster">Xem tại đây</a></li>
+        </ul>
+        <div style="background-color: #e6f7e6; padding: 10px; border-radius: 5px; margin-top: 15px;">
+            <b>&#11088; Đánh giá:</b> Đã nộp đầy đủ video và tài liệu.
+        </div>
+    </div>
 </details>
 ---
 <details>
