@@ -77,61 +77,7 @@ Dưới đây là danh sách các dự án tiêu biểu. Click vào tên dự á
         </div>
     </div>
 </details>
----
-<details>
-    <summary>
-        <h4>
-            🥈 Nhóm 2: Hệ thống Quản lý Bãi đỗ xe thông minh (Ngô Văn Minh, Lợi Gia Khánh, ...)
-        </h4>
-    </summary>
-    * **Thành viên:** 27. Ngô Văn Minh, 22. Lợi Gia Khánh, 18. Vũ Văn Hậu, 4. Nguyễn Trung Anh
-    * **Mã nguồn (GitHub):**
-        * 🔗 [Lợi Gia Khánh - max-Parking](https://github.com/lygiakhanh/max-Parking)
-        * 🔗 [Vũ Văn Hậu - QUANLIBA](https://github.com/Hau-1823/QUANLIBA)
-        * 🔗 [Nguyễn Trung Anh - BAIDOXI](https://github.com/IAmBaka1303/BAIDOXI)
-        * 🔗 [Ngô Văn Minh](Github)
-    * **Tài liệu & Demo:**
-        * 🎬 [Video Demo/Kết quả](Video)
-        * 🖼️ [Poster trình bày](Poster)
-    * **Đánh giá:** Đã nộp video.
-</details>
----
-<details>
-    <summary>
-        <h4>
-            🥉 Nhóm 3: Robot Dò đường/Tránh vật cản (Hoàng Đình Gia Huy, Lại Minh Hiệp, ...)
-        </h4>
-    </summary>
-    * **Thành viên:** 21. Hoàng Đình Gia Huy, 19. Lại Minh Hiệp, 30. Bùi Hữu Trí Phương, 43. Nguyễn Quang Thịnh
-    * **Mã nguồn (GitHub):**
-        * 🔗 [Hoàng Đình Gia Huy - Robot-d](https://github.com/hoangdinhgiahuy/Robot-d)
-        * 🔗 [Lại Minh Hiệp - XE-DO-LINE-gd](https://github.com/TheEro/XE-DO-LINE-gd)
-        * 🔗 [Bùi Hữu Trí Phương - robot-flow](https://github.com/triphuong25/robot-flow)
-        * 🔗 [Nguyễn Quang Thịnh - Embed](https://github.com/ThinhNguyen25/Embed)
-    * **Tài liệu & Demo:**
-        * 🎬 [Video Giới Thiệu](Video)
-        * ⚙️ [Video Kết Quả Chạy](Video)
-        * 📑 [Poster (PPTX)](Poster\_Nhom3.pptx)
-    * **Đánh giá:** Đã nộp đầy đủ các hạng mục.
-</details>
----
-<details>
-    <summary>
-        <h4>
-            Nhóm 4: Dự án Nhúng/IoT (Vũ Đức Thắng, Vũ Đức Toàn, ...)
-        </h4>
-    </summary>
-    * **Thành viên:** 42. Vũ Đức Thắng, 36. Vũ Đức Toàn, 1. Nguyễn Đoàn Bình An, 3. Nguyễn Phương Anh
-    * **Mã nguồn (GitHub):** * 🔗 [Vũ Đức Thắng](Github)
-        * 🔗 [Vũ Đức Toàn](Github)
-        * 🔗 [Nguyễn Đoàn Bình An](Github)
-        * 🔗 [Nguyễn Phương Anh](Github)
-    * **Tài liệu & Demo:**
-        * 🎬 [Video Giới Thiệu](Video)
-        * ⚙️ [Video Kết Quả Chạy](Video)
-        * 🖼️ [Poster trình bày](poster)
-    * **Đánh giá:** Đã nộp video và tài liệu.
-</details>
+
 </details>
 
 <details>
