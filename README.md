@@ -36,19 +36,26 @@ Dưới đây là danh sách các dự án tiêu biểu. Click vào tên dự á
 <details>
     <summary>
         <h4>
-            🥇 Nhóm 1: Hệ thống Smart Home (Ngô Văn Đào, Trần Hải Long, ...)
+            Nhóm 5: Dự án Nhúng/IoT (Đinh Trùng Phong, Lại Thành Đạt, ...)
         </h4>
     </summary>
-    * **Thành viên:** 14. Ngô Văn Đào, 25. Trần Hải Long, 17. Hoàng Trung Hải, 41. Ngô Tấn Thắng
-    * **Mã nguồn (GitHub):**
-        * 🔗 [Repository Chính - LongSmartHome](https://github.com/TtrHL/LongSmartHome)
-        * 🔗 [Ngô Văn Đào](https://github.com/ngovandao23/ngovandao23.ngg)
-        * 🔗 [Hoàng Trung Hải](https://github.com/Hoanghaio2310/hoanghaio2310)
-        * 🔗 [Ngô Tấn Thắng](https://github.com/thang09032005/lang-Nha)
-    * **Tài liệu & Demo:**
-        * 🎬 [Video Giới Thiệu (Google Drive)](https://drive.google/giolthieu.mp4)
-        * 📝 [Tài liệu trình bày (TtrHL/LongSmartHome)](https://github.com/TtrHL/LongSmartHome/video)
-    * **Đánh giá:** ⚠️ Video không đạt chuẩn (Yêu cầu tối thiểu 1080p).
+    <p>
+    <b>🧑‍💻 Thành viên:</b> 39. Đinh Trùng Phong, 16. Lại Thành Đạt, 35. Nguyễn Sỹ Thịnh, 10. Đỗ Văn Công
+    </p>
+    <p>
+    <b>💻 Mã nguồn (GitHub):</b><br>
+    🔗 `Đinh Trùng Phong`: [Github] <br>
+    🔗 `Lại Thành Đạt`: [Github] <br>
+    🔗 `Nguyễn Sỹ Thịnh`: [BaiTapLon](https://github.com/nguyensythinht/BaiTapLon) <br>
+    🔗 `Đỗ Văn Công`: [ProjectBTLIoT](https://github.com/docong1412/ProjectBTLIoT)
+    </p>
+    <p>
+    <b>🎥 Tài liệu & Demo:</b><br>
+    🎬 Video Giới Thiệu: [Video] <br>
+    ⚙️ Video Kết Quả Chạy: [Video] <br>
+    🖼️ Poster trình bày: [Poster]
+    </p>
+    > **⭐️ Đánh giá:** Đã nộp đầy đủ video và tài liệu.
 </details>
 ---
 <details>
